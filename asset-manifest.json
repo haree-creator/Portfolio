@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.465d46be.css",
+    "main.js": "/static/js/main.76517ed2.js",
+    "static/media/intro.jpg": "/static/media/intro.8e0b7840b7bdc0a00547.jpg",
+    "static/media/medilisticN.jpg": "/static/media/medilisticN.a9f2147a5c8034f73a9f.jpg",
+    "static/media/app-development.png": "/static/media/app-development.f9d169e80e84e333a6d1.png",
+    "static/media/github.png": "/static/media/github.b986a15565e74ccfe0e7.png",
+    "static/media/twitter.png": "/static/media/twitter.e4f83bef4191a65e9c7d.png",
+    "static/media/contact-form.png": "/static/media/contact-form.e84f02926803f81f4c65.png",
+    "static/media/web-development.png": "/static/media/web-development.924aefcd21dab990e435.png",
+    "static/media/UIdesign.png": "/static/media/UIdesign.a6917fccf02e67a9e18f.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/index.html",
+    "main.465d46be.css.map": "/static/css/main.465d46be.css.map",
+    "main.76517ed2.js.map": "/static/js/main.76517ed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.465d46be.css",
+    "static/js/main.76517ed2.js"
+  ]
+}
